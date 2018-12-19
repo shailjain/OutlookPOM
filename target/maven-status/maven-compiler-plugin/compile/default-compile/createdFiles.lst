@@ -1,0 +1,10 @@
+Linkedin\Outlook\PageObject\GetEmailFromOutlookPage.class
+Linkedin\Outlook\testBase\Config.class
+Linkedin\Outlook\PageObject\GetLinkedinDataPage.class
+Linkedin\Outlook\helper\Generic\GenericHelper.class
+Linkedin\Outlook\testBase\TestBase.class
+Linkedin\Outlook\helper\Generic\waitHelper.class
+Linkedin\Outlook\helper\Generic\ExcelHelper.class
+Linkedin\Outlook\helper\Generic\JavaScriptHelper.class
+Linkedin\Outlook\PageObject\LinkedinLoginPage.class
+Linkedin\Outlook\PageObject\OutlookLoginPage.class
